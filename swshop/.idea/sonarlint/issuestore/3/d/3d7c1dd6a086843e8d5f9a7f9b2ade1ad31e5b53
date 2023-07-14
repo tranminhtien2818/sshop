@@ -1,0 +1,13 @@
+
+H
+java:S1948"&Make "user" transient or serializable.(’Ø¾ıÿÿÿÿ8°«Æí÷0
+B
+java:S2201"-The return value of "substring" must be used.(ºÄ¬j
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÒğŞ¶şÿÿÿÿ
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8óĞÆí÷0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ôĞÆí÷0
+>
+java:S1643"Use a StringBuilder instead.(àï±Ãÿÿÿÿÿ8öĞÆí÷0

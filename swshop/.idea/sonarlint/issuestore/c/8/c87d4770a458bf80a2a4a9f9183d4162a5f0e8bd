@@ -1,0 +1,18 @@
+
+Z	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(æÎe
+`	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(–¬ÆÎüÿÿÿÿ
+a	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ö™½âşÿÿÿÿ
+ˆ
+java:S1130Ÿ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ö™½âşÿÿÿÿ
+W
+java:S4973\"<Strings and Boxed types should be compared using "equals()".(İÙ›øøÿÿÿÿ
+l
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ›¾“øÿÿÿÿ
+k
+java:S3655["PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ›¾“øÿÿÿÿ
+f
+java:S3655@"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ä†–„
+l
+java:S3655¸"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ›¾“øÿÿÿÿ
+g
+java:S3655¹"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ë®ô

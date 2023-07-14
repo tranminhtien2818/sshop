@@ -1,0 +1,45 @@
+
+b
+java:S4684D"@Replace this persistent entity with a simple POJO or DTO object.(êÖÛÓùÿÿÿÿ8€ŒË®ü0
+p
+java:S3776ž"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ë÷¥ 8¡ŒË®ü0
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(•…êçýÿÿÿÿ8³ŒË®ü0
+[	java:S106È"9Replace this use of System.out or System.err by a logger.(•…êçýÿÿÿÿ8ÀŒË®ü0
+J
+java:S1125Ð"'Remove the unnecessary boolean literal.(â¸Ššûÿÿÿÿ8ÄŒË®ü0
+U
+java:S1128"3Remove this unused import 'com.swshop.entity.User'.(’œ¯úÿÿÿÿ8šà×Ô”1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¦à×Ô”1
+R
+java:S1066Ð"/Merge this if statement with the enclosing one.(â¸Ššûÿÿÿÿ8ÈŒË®ü0
+a
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(°Ý›×ûÿÿÿÿ8ÊŒË®ü0
+a
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(°Ý›×ûÿÿÿÿ8ÊŒË®ü0
+\
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(ïå·â8ËŒË®ü0
+\
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(ïå·â8ÍŒË®ü0
+a
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(›ÊžÊþÿÿÿÿ8ÎŒË®ü0
+a
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(›ÊžÊþÿÿÿÿ8ÎŒË®ü0
+€
+java:S1488X"^Immediately return this expression instead of assigning it to the temporary variable "result".(¶³éáùÿÿÿÿ8ÐŒË®ü0
+M
+java:S5411Ð"*Use the primitive boolean expression here.(â¸Ššûÿÿÿÿ8ÔŒË®ü0
+Z
+java:S4973¨"<Strings and Boxed types should be compared using "equals()".(ô£„î8×ŒË®ü0
+Z
+java:S4973Ï"<Strings and Boxed types should be compared using "equals()".(ô£„î8ØŒË®ü0
+r
+java:S3655M"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(§•ÃÏýÿÿÿÿ8­ŽË®ü0
+m
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(šÚ‹ð8·ŽË®ü0
+r
+java:S36554"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Àèä¾úÿÿÿÿ8¹ŽË®ü0
+l
+java:S3655n"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ââ28¸ŽË®ü0
+n
+java:S3655†"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(šÚ‹ð8¹ŽË®ü0

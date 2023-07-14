@@ -1,0 +1,13 @@
+
+o	java:S116"URename this field "JWT_SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ψγγωÿÿÿÿ
+s	java:S116"YRename this field "JWT_EXPIRATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‹Εόÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(„Ψγγωÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ƒ‹Εόÿÿÿÿ
+h
+java:S6204R"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή
+k
+java:S1192'"UUse already-defined constant 'AUTHORITIES_KEY' instead of duplicating its value here.(ϋΡτ
+_
+java:S2259O"DA "NullPointerException" could be thrown; "claims" is nullable here.(¦Ϋκ’ύÿÿÿÿ

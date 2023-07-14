@@ -1,0 +1,39 @@
+
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øš
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(š¶Ë½ÿÿÿÿÿ8—œ¿ªü0
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™êÉÅıÿÿÿÿ8öæÀªü0
+j
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ô§¡úÿÿÿÿ8¸ Áªü0
+j
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸÔÎ©ÿÿÿÿÿ8œ‡Âªü0
+j
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‘äà•úÿÿÿÿ8¿ÌÃªü0
+j
+java:S4488*"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‡¸Ö¢ùÿÿÿÿ8ÁÌÃªü0
+e
+java:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Å­è8£±Äªü0
+j
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(—ôÊÿÿÿÿÿ8È¶Åªü0
+j
+java:S44889"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»Áÿÿÿÿÿ8èÆªü0
+j
+java:S4488>"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(úÇÉèıÿÿÿÿ8ˆ‚Çªü0
+j
+java:S4488C"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì°ŒØüÿÿÿÿ8¸ÔÇªü0
+j
+java:S4488H"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÉÊêùÿÿÿÿ8°·Èªü0
+j
+java:S4488M"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Üø€™şÿÿÿÿ8áæÉªü0
+e
+java:S4488R"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ìü 8ÿ‹Ëªü0
+j
+java:S4488W"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Îä€…üÿÿÿÿ8ö­Ìªü0
+e
+java:S4488\"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¸¿îØ8•ŠÍªü0
+U
+java:S1128"3Remove this unused import 'com.swshop.entity.User'.(’œ¯úÿÿÿÿ8şÁÍªü0
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8ÿÁÍªü0

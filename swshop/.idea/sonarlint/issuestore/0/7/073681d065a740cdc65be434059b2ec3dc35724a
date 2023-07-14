@@ -1,0 +1,7 @@
+
+V
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ı˜üß
+f
+java:S1128"DRemove this unused import 'com.swshop.repository.ProductRepository'.(ÚîŸ®ùÿÿÿÿ8ÿêœù0
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ßŠ±ƒ

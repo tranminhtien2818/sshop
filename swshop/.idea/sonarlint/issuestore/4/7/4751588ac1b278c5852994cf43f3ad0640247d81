@@ -1,0 +1,7 @@
+
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(«µâùÿÿÿÿ
+V
+java:S1128"9Remove this unused import 'com.swshop.entity.UserSearch'.(±‘ù¡8Ì›Üòû0
+Y
+java:S4973'"<Strings and Boxed types should be compared using "equals()".(¯ò¡Ô8ãøØòû0
